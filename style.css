@@ -1,0 +1,26 @@
+body{ font-family: sans-serif;
+  text-align: center;
+} 
+header{
+  background-color:red;
+}
+main{
+  background-color:darkgray;
+}
+footer{
+  background-color:red;
+}
+div{
+    padding: 10px;
+    margin: 5px;
+    
+}
+h1{
+   font-family: "alumini sans SC";
+}
+h3{
+     font-family: "Segoe UI";
+}
+p{
+   font-family: "Homer Simpson UI";
+}
